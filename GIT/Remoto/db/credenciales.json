@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "name": "Cristiano Ronaldo",
+            "email": "cr7@gmail.com",
+            "password" : "goat7"
+        },
+        {
+            "name": "Frionel messi",
+            "email": "cagalera@gmail.com",
+            "password" : "vomitron"
+        }
+    ]
+}
